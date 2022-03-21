@@ -1,1 +1,1 @@
-I love git.
+Git is like the undo button from wish.com
